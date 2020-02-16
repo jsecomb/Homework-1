@@ -6,7 +6,7 @@ Objective: The objective of this assignment is to improve the code of a Business
 - a logical structure to the HTML elements;
 - alt attributes for all imageds;
 - headings that fall into sequential order; and
-- a concise, decriptive title.
+- a concise, descriptive title.
 
 In the process of making these changes to the code base we are also tasked with ensuring that links are functioning correctly, cleaning up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
