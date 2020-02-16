@@ -1,7 +1,7 @@
 # Homework-1
 by Julian Secomb
 
-Objective: The objective of this assignment is to improve the code of a Business' existing website in order to make comply with a set of accesibility standards that enable people with disabilities or socio-economic restrictions to have access to their website. This involves modifying the source code to inlcude:
+Objective: The objective of this assignment is to improve the code of a Business' existing website in order to make it comply with a set of accesibility standards that enable people with disabilities or socio-economic restrictions to have access to their website. This involves modifying the source code to inlcude:
 - semantic HTML elements;
 - a logical structure to the HTML elements;
 - alt attributes for all imageds;
